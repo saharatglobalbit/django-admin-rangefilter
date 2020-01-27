@@ -33,7 +33,7 @@ msgstr "To date"
 #: templates/rangefilter/date_filter_1_8.html:2
 #, python-format
 msgid "By %(filter_title)s"
-msgstr "לפי תאריך"
+msgstr "לפי %(filter_title)s"
 
 #: templates/rangefilter/date_filter.html:133
 #: templates/rangefilter/date_filter_1_8.html:89
